@@ -1,0 +1,6 @@
+oci_compartment_ocid = "ocid1.compartment.oc1..xxxxxxxxxxxx"
+ssh_public_key       = "ssh-rsa AAAA... you@laptop"
+my_ip_cidr           = "203.0.113.25/32"
+
+# Leave commented for the first apply. apply.sh sets it for phase 2 automatically.
+# oci_tunnel_public_ip = "152.x.x.x"
